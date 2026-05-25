@@ -2,6 +2,9 @@
 
 Aplicação desenvolvida em React que permite pesquisar países, filtrar por região e visualizar informações detalhadas de cada país, incluindo população, capital, moedas, idiomas e países vizinhos. Os dados são consumidos dinamicamente através da REST Countries API e a aplicação conta com tema claro/escuro e layout totalmente responsivo para mobile, tablet e desktop.
 
+# Live Demo
+[View Project Online](https://rest-countries-api-two-smoky.vercel.app/)
+
 ## 🛠 Tecnologias Utilizadas
 - React
 - TypeScript
